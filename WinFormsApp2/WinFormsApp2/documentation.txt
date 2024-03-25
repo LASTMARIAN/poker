@@ -1,0 +1,5 @@
+﻿TODO
+
+Begin; What to do; Done; How
+
+22.11.22; combination counter - combination card values have to be counted; 23.11.22; made a variable in Hand-class named "combination_counter", which counts the value of combination (pair of QUEENS, pair of 10, etc., so these values will be considered while counting game results), added the list to the function
